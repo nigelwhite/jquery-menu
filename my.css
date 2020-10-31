@@ -1,0 +1,15 @@
+#navigation {
+  text-align: center;
+  display: none;
+}
+
+#home .home,
+#two .two,
+#three .three,
+#four .four {
+  background-color: aquamarine;
+}
+
+.nav-container {
+  min-height: 48px;
+}
